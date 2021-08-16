@@ -1,0 +1,69 @@
+body{
+    margin: 0px; 
+}
+
+.git{
+  background-color: rgb(28, 75, 80);
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 30px;
+  
+}
+.box1{
+    border-radius: 25px;
+    background-color: gray;
+    margin-top: 60px;
+    width: 200px;
+    height: 150px;
+    margin-left: 70px;
+}
+.box2{
+    border-radius: 25px;
+    background-color:gray;
+    margin-top: 60px;
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+}
+.box3{
+    border-radius: 25px;
+    background-color:gray;
+    margin-top: 60px;
+    width: 200px;
+    height: 150px;
+    margin-left: 50px;
+}
+.text{
+    border-radius: 25px;
+    width: 500px;
+    background-color:black;
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.box4{
+    border-radius: 25px;
+    background-color:#444941;
+   
+    width: 40%;
+    margin-top: 90px;
+    padding-top: 200px;
+    padding-left: 550px;
+    margin-left: 20px;
+}
+.box0{
+    border-radius: 25px;
+    background-color: grey;
+    padding-top: 550px;
+    padding-right:50px;
+    margin-top: 90px;
+    
+}
+body{
+    background-color: lightgray;
+}
